@@ -23,3 +23,5 @@
 	https://www.jianshu.com/p/87ef6720a096 
 	https://www.jianshu.com/p/829864680648
 	https://github.com/renjinkui2719/DIS_KVC_KVO
+	https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html
+	https://github.com/facebook/KVOController
